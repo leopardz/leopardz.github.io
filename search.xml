@@ -5,10 +5,23 @@
     
     <entry>
       <title>利用hexo搭建博客</title>
-      <link href="/2020/04/25/1/"/>
-      <url>/2020/04/25/1/</url>
+      <link href="/2021/01/09/li-yong-hexo-da-jian-bo-ke/"/>
+      <url>/2021/01/09/li-yong-hexo-da-jian-bo-ke/</url>
       
         <content type="html"><![CDATA[<h1 id="前提条件"><a href="#前提条件" class="headerlink" title="前提条件"></a>前提条件</h1><ol><li>三个软件:<a href="https://nodejs.org/en/" target="_blank" rel="noopener">nodejs</a>，<a href="https://gitforwindows.org/" target="_blank" rel="noopener">git for windows</a>，<a href="https://www.sublimetextcn.com/" target="_blank" rel="noopener">Sublime Text3</a></li><li>创建github账户，创建仓库，用户名.github.io，此处格式固定</li><li>在仓库里添加文件：index.html，随意写点内容，在浏览器网址栏输入：用户名.github.io，即可得到属于你自己网页。</li></ol><h1 id="链接你的电脑与网址"><a href="#链接你的电脑与网址" class="headerlink" title="链接你的电脑与网址"></a>链接你的电脑与网址</h1><ol><li></li></ol><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo</title>
+      <link href="/2021/01/09/hexo/"/>
+      <url>/2021/01/09/hexo/</url>
+      
+        <content type="html"><![CDATA[<h1 id="什么是-Hexo？"><a href="#什么是-Hexo？" class="headerlink" title="什么是 Hexo？"></a>什么是 <a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="noopener">Hexo</a>？</h1><p>Hexo 是一个快速、简洁且高效的博客框架。<br>Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       
